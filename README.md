@@ -1,15 +1,13 @@
 # 🏥 Pharmx AI — Smart Medicine Safety &amp; Drug Interaction Assistant
 
-[![Hackathon](https://img.shields.io/badge/HackInMotion_2026-Pre--Qualifier_Round_Zero-6366f1.svg?style=for-the-badge)](https://github.com/its-Sittu/HackInMotion-RICR-HIM-1114)
 [![React](https://img.shields.io/badge/React_19-Vite_8-06b6d4.svg?style=for-the-badge&amp;logo=react)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-Express_REST-10b981.svg?style=for-the-badge&amp;logo=node.js)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose_Database-47a248.svg?style=for-the-badge&amp;logo=mongodb)](https://www.mongodb.com/)
 [![License](https://img.shields.io/badge/License-MIT-f43f5e.svg?style=for-the-badge)](LICENSE)
 
-> **Team Code:** `RICR-HIM-1114`  
+
 > **Theme:** Healthcare &amp; HealthTech  
 > **Problem Statement:** Smart Medicine Safety &amp; Drug Interaction Assistant  
-> **Repository:** [HackInMotion-RICR-HIM-1114](https://github.com/its-Sittu/HackInMotion-RICR-HIM-1114)
 
 ---
 
@@ -170,14 +168,6 @@ HackInMotion-RICR-HIM-1114/
 ```
 
 ---
-
-## 👥 Team RICR-HIM-1114
-
-| Team Member | Role | Key Contributions |
-| :--- | :--- | :--- |
-| **Sittu Kumar Singh** | Lead Full-Stack Architect | 3D Organ Canvas, Leaflet GPS Radar, Interaction Engine, UI/UX System |
-| **Srishti Kumari** | Frontend &amp; State Specialist | User Profile, Settings, Navigation, Responsive Layouts |
-| **Amit Kumar** | Backend &amp; API Developer | Express REST Endpoints, JWT Authentication, Fast2SMS Integration |
 
 ---
 
